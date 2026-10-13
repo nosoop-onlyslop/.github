@@ -10,6 +10,11 @@
 > For such projects, I have no interest in accepting pull requests or handling issues.
 > Discussions are provided in case people want to coordinate building off of what was published.
 >
+> As far as I'm aware, current law (as of 2026-10) suggests that AI-generated code cannot be
+> copyrighted and thus I can't attach a license to any such code.  That is perfectly okay with
+> me.  If this changes in the future, consider all repositories under this organization as under
+> the Unlicense.
+>
 > My personal profile will continue to host repositories that I'm invested in understanding or
 > (in the case of forks) contributing towards.  As with a growing number of developers these
 > days, that doesn't mean coding agents won't have any role whatsoever, but it will be with code
