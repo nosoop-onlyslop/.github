@@ -8,7 +8,7 @@
 > tokens retreading my steps).
 >
 > For such projects, I have no interest in accepting pull requests or handling issues.
-> Discussions are provided in case people want to coordinate building off of what was made.
+> Discussions are provided in case people want to coordinate building off of what was published.
 >
 > My personal profile will continue to host repositories that I'm invested in understanding or
 > (in the case of forks) contributing towards.  As with a growing number of developers these
